@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{25F6DD40-56F6-433C-82A5-8D7314BB729A}|RayTracing\\RayTracing.vcxproj|solutionrelative:RayTracing\\main.cc||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{25F6DD40-56F6-433C-82A5-8D7314BB729A}|RayTracing\\RayTracing.vcxproj|C:\\Users\\Andr\u00E9s\\Documents\\Andres\\Universidad\\7\u00B0 Semestre\\Programacion Paralela\\1\u00B0 Parcial\\RayTracing\\RayTracing\\camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{25F6DD40-56F6-433C-82A5-8D7314BB729A}|RayTracing\\RayTracing.vcxproj|solutionrelative:RayTracing\\camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{25F6DD40-56F6-433C-82A5-8D7314BB729A}|RayTracing\\RayTracing.vcxproj|C:\\Users\\Andr\u00E9s\\Documents\\Andres\\Universidad\\7\u00B0 Semestre\\Programacion Paralela\\1\u00B0 Parcial\\RayTracing\\RayTracing\\ray.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{25F6DD40-56F6-433C-82A5-8D7314BB729A}|RayTracing\\RayTracing.vcxproj|solutionrelative:RayTracing\\ray.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{25F6DD40-56F6-433C-82A5-8D7314BB729A}|RayTracing\\RayTracing.vcxproj|C:\\Users\\Andr\u00E9s\\Documents\\Andres\\Universidad\\7\u00B0 Semestre\\Programacion Paralela\\1\u00B0 Parcial\\RayTracing\\RayTracing\\material.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{25F6DD40-56F6-433C-82A5-8D7314BB729A}|RayTracing\\RayTracing.vcxproj|solutionrelative:RayTracing\\material.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25F6DD40-56F6-433C-82A5-8D7314BB729A}|RayTracing\\RayTracing.vcxproj|C:\\Users\\Andr\u00E9s\\Documents\\Andres\\Universidad\\7\u00B0 Semestre\\Programacion Paralela\\1\u00B0 Parcial\\RayTracing\\RayTracing\\camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{25F6DD40-56F6-433C-82A5-8D7314BB729A}|RayTracing\\RayTracing.vcxproj|solutionrelative:RayTracing\\camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{25F6DD40-56F6-433C-82A5-8D7314BB729A}|RayTracing\\RayTracing.vcxproj|C:\\Users\\Andr\u00E9s\\Documents\\Andres\\Universidad\\7\u00B0 Semestre\\Programacion Paralela\\1\u00B0 Parcial\\RayTracing\\RayTracing\\hittable_list.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -72,7 +72,7 @@
               "RelativeDocumentMoniker": "RayTracing\\main.cc",
               "ToolTip": "C:\\Users\\Andr\u00E9s\\Documents\\Andres\\Universidad\\7\u00B0 Semestre\\Programacion Paralela\\1\u00B0 Parcial\\RayTracing\\RayTracing\\main.cc",
               "RelativeToolTip": "RayTracing\\main.cc",
-              "ViewState": "AgIAACgAAAAAAAAAAAAiwFAAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-09-14T19:57:59.877Z",
               "EditorCaption": ""
@@ -115,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ray.h",
               "DocumentMoniker": "C:\\Users\\Andr\u00E9s\\Documents\\Andres\\Universidad\\7\u00B0 Semestre\\Programacion Paralela\\1\u00B0 Parcial\\RayTracing\\RayTracing\\ray.h",
               "RelativeDocumentMoniker": "RayTracing\\ray.h",
@@ -123,12 +123,11 @@
               "RelativeToolTip": "RayTracing\\ray.h",
               "ViewState": "AgIAAAkAAAAAAAAAAAAIwCMAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-09-14T19:59:13.869Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-14T19:59:13.869Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "material.h",
               "DocumentMoniker": "C:\\Users\\Andr\u00E9s\\Documents\\Andres\\Universidad\\7\u00B0 Semestre\\Programacion Paralela\\1\u00B0 Parcial\\RayTracing\\RayTracing\\material.h",
               "RelativeDocumentMoniker": "RayTracing\\material.h",
@@ -136,8 +135,7 @@
               "RelativeToolTip": "RayTracing\\material.h",
               "ViewState": "AgIAAAQAAAAAAAAAAAAmwBkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-09-14T19:58:44.458Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-14T19:58:44.458Z"
             },
             {
               "$type": "Document",
@@ -165,6 +163,23 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "camera.h",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E9s\\Documents\\Andres\\Universidad\\7\u00B0 Semestre\\Programacion Paralela\\1\u00B0 Parcial\\RayTracing\\RayTracing\\camera.h",
+              "RelativeDocumentMoniker": "RayTracing\\camera.h",
+              "ToolTip": "C:\\Users\\Andr\u00E9s\\Documents\\Andres\\Universidad\\7\u00B0 Semestre\\Programacion Paralela\\1\u00B0 Parcial\\RayTracing\\RayTracing\\camera.h",
+              "RelativeToolTip": "RayTracing\\camera.h",
+              "ViewState": "AgIAABUAAAAAAAAAAAAiwH8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-14T19:55:22.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{9d2016e5-735e-4d98-a9af-fff43b64a526}"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
               "Title": "color.h",
               "DocumentMoniker": "C:\\Users\\Andr\u00E9s\\Documents\\Andres\\Universidad\\7\u00B0 Semestre\\Programacion Paralela\\1\u00B0 Parcial\\RayTracing\\RayTracing\\color.h",
@@ -174,18 +189,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-09-14T19:56:17.099Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "camera.h",
-              "DocumentMoniker": "C:\\Users\\Andr\u00E9s\\Documents\\Andres\\Universidad\\7\u00B0 Semestre\\Programacion Paralela\\1\u00B0 Parcial\\RayTracing\\RayTracing\\camera.h",
-              "RelativeDocumentMoniker": "RayTracing\\camera.h",
-              "ToolTip": "C:\\Users\\Andr\u00E9s\\Documents\\Andres\\Universidad\\7\u00B0 Semestre\\Programacion Paralela\\1\u00B0 Parcial\\RayTracing\\RayTracing\\camera.h",
-              "RelativeToolTip": "RayTracing\\camera.h",
-              "ViewState": "AgIAAG8AAAAAAAAAAAAUwH8AAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-09-14T19:55:22.211Z"
             },
             {
               "$type": "Document",

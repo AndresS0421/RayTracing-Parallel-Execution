@@ -54,11 +54,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{9d2016e5-735e-4d98-a9af-fff43b64a526}"
             },
             {
               "$type": "Bookmark",
@@ -72,7 +76,7 @@
               "RelativeDocumentMoniker": "RayTracing\\main.cc",
               "ToolTip": "C:\\Users\\Andr\u00E9s\\Documents\\Andres\\Universidad\\7\u00B0 Semestre\\Programacion Paralela\\1\u00B0 Parcial\\RayTracing\\RayTracing\\main.cc",
               "RelativeToolTip": "RayTracing\\main.cc",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAiwFAAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-09-14T19:57:59.877Z",
               "EditorCaption": ""
@@ -123,8 +127,7 @@
               "RelativeToolTip": "RayTracing\\ray.h",
               "ViewState": "AgIAAAkAAAAAAAAAAAAIwCMAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-09-14T19:59:13.869Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-14T19:59:13.869Z"
             },
             {
               "$type": "Document",
@@ -136,8 +139,7 @@
               "RelativeToolTip": "RayTracing\\material.h",
               "ViewState": "AgIAAAQAAAAAAAAAAAAmwBkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-09-14T19:58:44.458Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-14T19:58:44.458Z"
             },
             {
               "$type": "Document",
